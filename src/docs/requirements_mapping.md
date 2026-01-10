@@ -1,7 +1,13 @@
-# Requirements Mapping
+# 🧠 Mental Health & Wellness Companion
 
-| User Story / Requirement | Page Name | Component File |
-| :--- | :--- | :--- |
-| View breathing exercises | Breathing Page | Breathing.vue |
-| Get AI support | AI Support Page | AiSupport.vue |
-| Read wellness tips | Wellness Page | Wellness.vue |
+A Vue.js 3 application designed to support mental well-being through guided breathing, wellness tracking, and AI-driven support.
+
+## 👥 Team Members
+* [Jenine Samson]
+* [Jeff Montalbo]
+
+## 🚀 Features
+* **Interactive Breathing:** Visual guide for rhythmic breathing.
+* **Wellness Roadmap:** Daily tips for mental and physical health.
+* **AI Support:** Simulated chat interface for immediate interaction.
+* **Sage Green UI:** A calming, aesthetic design focused on user peace.
